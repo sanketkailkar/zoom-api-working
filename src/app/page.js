@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <div>
-      <p>ZOOM JWT</p>
+      <p>ZOOM API Working</p>
       <p>{jwt}</p>
     </div>
   );
